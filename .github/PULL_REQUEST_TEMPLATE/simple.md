@@ -1,0 +1,1 @@
+* Just simple PR template
